@@ -1,0 +1,65 @@
+
+Loading plugins from C:\Program Files (x86)\PCSX2\plugins...
+	Bound   GS: GSdx32-AVX2.dll [GSdx 20200506140834 (MSVC 19.25 AVX2/AVX2) 1.2.0]
+	Bound  PAD: LilyPad.dll [LilyPad (20200506140834) 0.12.1]
+	Bound SPU2: Spu2-X.dll [SPU2-X 20200506140834 2.0.0]
+	Bound CDVD: cdvdGigaherz.dll [cdvdGigaherz 20200506140834 0.11.0]
+	Bound  USB: USBnull.dll [USBnull Driver 20200506140834 0.7.0]
+	Bound   FW: FWnull.dll [FWnull Driver 20200506140834 0.7.0]
+	Bound DEV9: DEV9null.dll [DEV9null Driver 20200506140834 0.5.0]
+Plugins loaded successfully.
+
+Initializing plugins...
+	Init GS
+	Init PAD
+	Init SPU2
+	Init CDVD
+	Init USB
+	Init FW
+	Init DEV9
+Plugins initialized successfully.
+
+Bios Found: Europe  v01.60(04/10/2001)  Console
+Bios Found: Europe  v02.00(14/06/2004)  Console
+Bios Found: Japan   v01.00(17/01/2000)  Console
+Bios Found: USA     v01.60(07/02/2002)  Console
+Shutting down plugins...
+PCSX2 1.6.0-20200506140834- compiled on May  6 2020
+Savestate version: 0x9a0e0000
+
+Host Machine Init:
+	Operating System =  Microsoft Windows 10 Pro (build 26100), 64-bit
+	Physical RAM     =  16307 MB
+	CPU name         =  AMD Ryzen 7 5700X 8-Core Processor
+	Vendor/Model     =  AuthenticAMD (stepping 02)
+	CPU speed        =  3.393 ghz (16 logical threads)
+	x86PType         =  Standard OEM
+	x86Flags         =  178bfbff 7ef8320b
+	x86EFlags        =  2fd3fbff
+
+x86 Features Detected:
+	SSE2.. SSE3.. SSSE3.. SSE4.1.. SSE4.2.. AVX.. AVX2.. FMA
+	SSE4a 
+
+Plugins shutdown successfully.
+Reserving memory for recompilers...
+
+Loading plugins from C:\Program Files (x86)\PCSX2\plugins...
+	Bound   GS: GSdx32-AVX2.dll [GSdx 20200506140834 (MSVC 19.25 AVX2/AVX2) 1.2.0]
+	Bound  PAD: LilyPad.dll [LilyPad (20200506140834) 0.12.1]
+	Bound SPU2: Spu2-X.dll [SPU2-X 20200506140834 2.0.0]
+	Bound CDVD: cdvdGigaherz.dll [cdvdGigaherz 20200506140834 0.11.0]
+	Bound  USB: USBnull.dll [USBnull Driver 20200506140834 0.7.0]
+(GameDB) 9858 games on record (loaded in 73ms)
+	Bound   FW: FWnull.dll [FWnull Driver 20200506140834 0.7.0]
+	Bound DEV9: DEV9null.dll [DEV9null Driver 20200506140834 0.5.0]
+Plugins loaded successfully.
+
+(FileMcd) Creating new PS2 8MB memory card: 'C:\Users\rodri\Documents\PCSX2\memcards\Mcd001.ps2'
+Memory card created: 'C:\Users\rodri\Documents\PCSX2\memcards\Mcd001.ps2'.
+(FileMcd) Creating new PS2 8MB memory card: 'C:\Users\rodri\Documents\PCSX2\memcards\Mcd002.ps2'
+Memory card created: 'C:\Users\rodri\Documents\PCSX2\memcards\Mcd002.ps2'.
+Apply memory cards:
+slot[0]='Mcd001.ps2'
+slot[1]='Mcd002.ps2'
+(GameDB) Unloading...
